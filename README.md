@@ -132,3 +132,6 @@ Modify `--time=` and `--mem=` as needed for longer runs.
 This workflow was designed to **efficiently set up and run long MD simulations on HPC clusters** using Amber. 🚀
 
 
+Niayesh Zarifi
+
+
